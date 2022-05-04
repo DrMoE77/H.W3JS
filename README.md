@@ -13,7 +13,7 @@
   * [Contact](#contact)
   
   ## Usage
-  Employees in a company can generte passwords using this app. 
+  Employees in a company can generate passwords using this app. 
 
   ## Installation 
   no installation instructions 
